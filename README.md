@@ -25,4 +25,4 @@ weather-app
 [🚀 View Live Project](https://us4501.github.io/weather-app/)
 
 ## Preview
-![Weather App Screenshot](screenshot.png)
+(screenshot.png)
