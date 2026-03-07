@@ -1,5 +1,5 @@
-# weather-app
- weather application that shows real-time weather information using Weather API.
+# 🌦️ Weather App
+Weather application that shows real-time weather information using Weather API.
 
 ## Features
 - Search weather by city name
@@ -17,10 +17,12 @@ weather-app
 │
 ├── index.html
 ├── style.css
-└── script.js
+├── script.js
+├── screenshot.png
+└── README.md
 
 ## Live Demo
-https://yourusername.github.io/weather-app/
+[🚀 View Live Project](https://us4501.github.io/weather-app/)
 
 ## Preview
-![Weather App](screenshot,png)
+![Weather App Screenshot](screenshot.png)
