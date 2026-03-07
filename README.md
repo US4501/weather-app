@@ -23,4 +23,4 @@ weather-app
 https://yourusername.github.io/weather-app/
 
 ## Preview
-![Weather App](Screenshot%202026-03-07%20214605.png)
+![Weather App](screenshot,png)
